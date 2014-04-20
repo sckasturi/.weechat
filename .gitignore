@@ -1,0 +1,14 @@
+logs/
+gs/
+irc.conf
+sec.conf
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+nicks.db
+*.dat
+*.log
+*.swp
+*.save
+.*.swp
